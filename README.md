@@ -20,10 +20,10 @@ El objetivo principal fue comprobar la hipótesis de que **entre más cerca de l
 
 ## Archivos del proyecto
 
-- **Base de datos:** `TiempoDeEntrega.csv`  
-- **Reporte en Jupyter Notebook:** `Regresión no Lineal.ipynb`  
-- **Reporte en HTML:** `Regresión no Lineal.html`
-- **Reporte en PDF:** `Regresión no Lineal.pdf`  
+- **Base de datos:** [`TiempoDeEntrega.csv`](TiempoDeEntrega.csv)  
+- **Reporte en Jupyter Notebook:** [`Regresión no Lineal.ipynb`](Regresión no Lineal.ipynb)  
+- **Reporte en HTML:** [`Regresión no Lineal.html`](Regresión no Lineal.html)  
+- **Reporte en PDF:** [`Regresión no Lineal.pdf`](Regresión no Lineal.pdf)  
 
 Sin embargo, el **modelo polinomial resulta más interpretable**, al mostrar una relación clara con un punto máximo.  
 Por lo tanto, el modelo “mejor” depende de si se prioriza la **precisión** (KNN) o la **claridad en la explicación** (Polinomial).  
